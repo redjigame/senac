@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <header>
+        <h1>Hoje vai...</h1>
+    </header>
+    <form action=""></form>
+    <footer>
+
+    </footer>
 </body>
 </html>
